@@ -8,13 +8,13 @@ I'm **Sambit Dutta**.
 - Open to collaboration on interesting projects.
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/sambitdutta1989/](https://www.linkedin.com/in/sambitdutta1989/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambitdutta1989/)
 
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sambitdutta&show_icons=true&theme=tokyonight" alt="Sambit Dutta's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambitdutta&theme=tokyonight" alt="Sambit Dutta's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sambitdutta&theme=tokyonight" alt="Sambit Dutta's GitHub streak" />
 </p>
 
 <p align="center">
