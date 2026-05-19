@@ -10,15 +10,10 @@ I'm **Sambit Dutta**.
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambitdutta1989/)
 
-## GitHub Stats
+## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sambitdutta&show_icons=true&theme=tokyonight" alt="Sambit Dutta's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=sambitdutta&theme=tokyonight" alt="Sambit Dutta's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitdutta&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ## GitHub Trophies
